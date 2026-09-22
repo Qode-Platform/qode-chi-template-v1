@@ -5,3 +5,6 @@
 # --- Go ---
 .bin/
 *.db
+
+# the compiled binary: `go build ./...` writes it here
+/app
